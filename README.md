@@ -1,3 +1,3 @@
 # hello-world
-mi primer repositorio
+mi primer repositor
 cambie esta version porque estoy probando los branches de github
